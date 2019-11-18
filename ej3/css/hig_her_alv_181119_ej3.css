@@ -41,12 +41,12 @@ li a:hover:not(.activo) {
     background-color: yellow;
     border: black solid 1px;
 }
-.gris1{
+.gris2{
     width: 30%;
     height: 100%;
     background-color: darkgray;
 }
-.gris2{
+.gris1{
     width: 30%;
     height: 100%;
     background-color: gray;
